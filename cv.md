@@ -45,3 +45,15 @@ function DNAStrand(dna){
 
 console.log(DNAStrand('ATTGC'))
 ```
+
+### Education:
+
+* HTML, CSS, Javascript on the [Sololearn](https://www.sololearn.com/home) courses
+* [Hillel IT school](https://online.ithillel.ua/). [My certificate](https://certificate.ithillel.ua/ru/view/94037512)
+* [RS Schools Course «JavaScript/Front-end. Stage 1»](https://rs.school/js/) (in process...);
+
+### Languages:
+
+* Ukrainian - native
+* Russian - second native
+* English - Pre-Intermediate
